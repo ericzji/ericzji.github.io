@@ -43,7 +43,14 @@ This portfolio highlights selected enablement content, architectures, and joint 
 
 ---
 
-### ☁️ AWS EKS to OpenShift ROSA
+
+---
+
+## 🔴 Red Hat OpenShift and F5
+
+- [F5.com Red Hat Alliance Page](https://www.f5.com/partners/technology-alliances/red-hat)
+
+### ☁️ Solution: AWS EKS to OpenShift ROSA
 
 #### 🎬 Live Demo – F5 AppWorld 2024 (Customer Summit)
 - [Simplify App Connectivity with Red Hat ROSA and F5 Distributed Cloud](https://www.youtube.com/watch?v=Mx7QfpZpjHc)
@@ -52,11 +59,6 @@ This portfolio highlights selected enablement content, architectures, and joint 
 - [Multi-Cloud Network Security with F5 and Red Hat OpenShift](https://www.f5.com/company/events/webinars/multi-cloud-network-security-with-f5-and-red-hat-openshift)
 - [F5 Secure Multicloud Networking for Red Hat OpenShift](https://www.f5.com/company/events/webinars/f5-secure-multicloud-networking-for-red-hat-openshift)
 
----
-
-## 🔴 Red Hat OpenShift and F5
-
-- [F5.com Red Hat Alliance Page](https://www.f5.com/partners/technology-alliances/red-hat)
 
 ### 🧩 Solution: Multi-cloud with F5 and Red Hat OpenShift (AWS, Azure, and vSphere)
 - [Red Hat Multi-Cloud Deployment Guide](https://www.f5.com/pdf/solution-center/f5-redhat-multicloud-architecture.pdf)
@@ -77,11 +79,11 @@ This portfolio highlights selected enablement content, architectures, and joint 
 
 ---
 
-## 🔧 Solution Package: Site Reliability Engineering with F5
+### 🔧 Solution Package: Site Reliability Engineering with F5
 
 **GitHub:** [f5-bd-sre-demo](https://github.com/f5devcentral/f5-bd-sre-demo)
 
-### 🔹 Use Cases
+#### 🔹 Use Cases
 - [Scenario #1: Blue-Green Deployment](https://github.com/f5devcentral/f5-bd-sre-demo/blob/master/sre-usecases/02-blue-green-deployment/README.md)
 - [Scenario #2: Targeted Canary Deployment](https://github.com/f5devcentral/f5-bd-sre-demo/blob/master/sre-usecases/01-targeted-canary/README.md)
 - [Scenario #3: Observability with ELK](https://github.com/f5devcentral/f5-bd-sre-demo/blob/master/sre-usecases/03-observability-for-targeted-canary-with-ELK%20/README.md)
@@ -90,7 +92,7 @@ This portfolio highlights selected enablement content, architectures, and joint 
 - [Scenario #6: East-West Attack Protection](https://github.com/f5devcentral/f5-bd-sre-demo/blob/master/sre-usecases/06-east_west_attack/README.md)
 - [Scenario #7: Enhanced Targeted Canary Deployment](https://github.com/f5devcentral/f5-bd-sre-demo/blob/master/sre-usecases/07-enhanced_targeted_canary/README.md)
 
-### 🧠 Blog Series
+#### 🧠 Blog Series
 [Adopting SRE Practices with F5 (DevCentral)](https://community.f5.com/t5/tag/series-adopting-sre-practices-with-f5/tg-p/board-id/TechnicalArticles)
 - [Adopting Site Reliability Engineering with F5](https://community.f5.com/t5/technical-articles/adopting-site-reliability-engineering-with-f5/ta-p/291057)
 - [Multi-Cluster Blue-Green Deployment](https://community.f5.com/t5/technical-articles/adopting-sre-practices-with-f5-multi-cluster-blue-green/ta-p/291051)
@@ -99,11 +101,11 @@ This portfolio highlights selected enablement content, architectures, and joint 
 - [Layered Security Policy for North-South Traffic](https://community.f5.com/t5/technical-articles/adopting-sre-practices-with-f5-layered-security-policy-for-north/ta-p/284890)
 - [Accelerating Digital Transformation in BFSI](https://community.f5.com/t5/technical-articles/accelerating-digital-transformation-in-banking-and-financial/ta-p/291026)
 
-### 🎬 Demo Videos
+#### 🎬 Demo Videos
 - [Use Case #01 – Blue-Green Deployment (Red Hat + F5)](https://youtu.be/I1y7BxWR9s0)
 - [Use Case #02 – Targeted Canary Deployment (F5 + Red Hat + Azure AD)](https://youtu.be/Li5_gBAIMQQ)
 
-### 💻 Click-Through Demo
+#### 💻 Click-Through Demo
 [F5 Simulator: SRE Blue-Green Deployment](https://simulator.f5.com/s/sre-blue-green)
 
 *Delivered to:* Agility Session (F5 Sales Summit)  
