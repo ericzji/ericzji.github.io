@@ -4,6 +4,7 @@ Welcome!
 This portfolio highlights selected enablement content, architectures, and joint solutions I’ve led across **F5**, **Red Hat**, **Cisco**, and **NVIDIA**, focused on multi-cloud, AI infrastructure, automation, and SRE practices.
 
 ---
+---
 
 ## 🤖 F5 and AI
 
@@ -42,8 +43,6 @@ This portfolio highlights selected enablement content, architectures, and joint 
   [Advancing AI Inference: Scalability and Security with Red Hat OpenShift AI and F5](https://events.experiences.redhat.com/widget/redhat/sum25/SessionCatalog2025/session/1741033646953001jcS6)
 
 ---
-
-
 ---
 
 ## 🔴 Red Hat OpenShift and F5
@@ -64,16 +63,16 @@ This portfolio highlights selected enablement content, architectures, and joint 
 - [Red Hat Multi-Cloud Deployment Guide](https://www.f5.com/pdf/solution-center/f5-redhat-multicloud-architecture.pdf)
 - [Azure Red Hat OpenShift with F5 BIG-IP Solution Overview](https://www.f5.com/pdf/solution-guides/easily-provision-big-ip-on-azure-red-hat-openshift.pdf)
 
-### 🧠 Blogs
+#### 🧠 Blogs
 - [Connect and Secure OpenShift Cloud Services with F5 Distributed Cloud](https://community.f5.com/t5/technical-articles/connect-and-secure-openshift-cloud-services-with-f5-distributed/ta-p/293330)
 - [Deploying NGINX Ingress Controller with OpenShift on AWS Managed Service: ROSA](https://community.f5.com/t5/technical-articles/deploying-nginx-ingress-controller-with-openshift-on-aws-managed/ta-p/291023)
 - [Running F5 with Managed Azure Red Hat OpenShift](https://community.f5.com/t5/technical-articles/running-f5-with-managed-azure-redhat-openshift/ta-p/291157) with [@MichaelOLeary](https://community.f5.com/t5/user/viewprofilepage/user-id/242856)
 
-### 🎥 Demo Videos
+#### 🎥 Demo Videos
 - [Azure Red Hat OpenShift (ARO) with F5 Distributed Cloud](https://www.youtube.com/watch?v=PmESqS48wPM)
 - [Red Hat OpenShift on AWS (ROSA) with F5 Distributed Cloud](https://www.youtube.com/watch?v=3W_9BMaC63Y)
 
-### 🗂 Presentations
+#### 🗂 Presentations
 - *Value Prop Paper:* **Better Together: Red Hat OpenShift and F5** (INTERNAL)  
   *Delivered to:* Agility Session (F5 Sales Summit)
 
@@ -112,7 +111,7 @@ This portfolio highlights selected enablement content, architectures, and joint 
 🏆 *Top 2 SE Solution Package Award*
 
 ---
-
+---
 ## 🟡 Red Hat Ansible and F5
 
 ### ⚙️ Ansible Linklight – F5 Networking Workshop
