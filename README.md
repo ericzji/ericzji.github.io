@@ -5,7 +5,7 @@ This portfolio highlights selected enablement content, architectures, and joint 
 
 ---
 
-## 🤖 F5 and AI
+## 🔵 F5 and AI
 
 ### ⚡ NVIDIA and F5 (since September 2025) — *Work in Progress*
 - Joint collaboration to integrate **F5 AI Gateway** and **NVIDIA NIM / AI Enterprise** stack.
