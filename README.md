@@ -4,7 +4,6 @@ Welcome!
 This portfolio highlights selected enablement content, architectures, and joint solutions I’ve led across **F5**, **Red Hat**, **Cisco**, and **NVIDIA**, focused on multi-cloud, AI infrastructure, automation, and SRE practices.
 
 ---
----
 
 ## 🤖 F5 and AI
 
@@ -42,7 +41,14 @@ This portfolio highlights selected enablement content, architectures, and joint 
 - *Red Hat Summit 2025 Breakout Session:*  
   [Advancing AI Inference: Scalability and Security with Red Hat OpenShift AI and F5](https://events.experiences.redhat.com/widget/redhat/sum25/SessionCatalog2025/session/1741033646953001jcS6)
 
----
+#### 🏅 Recognition
+- Delivered at **Agility Session (F5 Sales Summit)**
+
+#### 📈 Impact
+- 7 technical scenarios delivered across reliability, observability, and security  
+- 200+ SEs trained across regions  
+- Field enablement reused across 3 strategic partners  
+
 ---
 
 ## 🔴 Red Hat OpenShift and F5
@@ -58,6 +64,14 @@ This portfolio highlights selected enablement content, architectures, and joint 
 - [Multi-Cloud Network Security with F5 and Red Hat OpenShift](https://www.f5.com/company/events/webinars/multi-cloud-network-security-with-f5-and-red-hat-openshift)
 - [F5 Secure Multicloud Networking for Red Hat OpenShift](https://www.f5.com/company/events/webinars/f5-secure-multicloud-networking-for-red-hat-openshift)
 
+#### 🏅 Recognition
+- Delivered at **Agility Session (F5 Sales Summit)**
+
+#### 📈 Impact
+- Accelerated migrations from EKS to ROSA with standardized patterns  
+- Reduced time-to-first-value for field teams through demo-first enablement  
+
+---
 
 ### 🧩 Solution: Multi-cloud with F5 and Red Hat OpenShift (AWS, Azure, and vSphere)
 - [Red Hat Multi-Cloud Deployment Guide](https://www.f5.com/pdf/solution-center/f5-redhat-multicloud-architecture.pdf)
@@ -75,6 +89,15 @@ This portfolio highlights selected enablement content, architectures, and joint 
 #### 🗂 Presentations
 - *Value Prop Paper:* **Better Together: Red Hat OpenShift and F5** (INTERNAL)  
   *Delivered to:* Agility Session (F5 Sales Summit)
+
+#### 🏅 Recognition
+- **Top 2 SE Package Award – “Better Together: F5 + Red Hat”**  
+- Delivered at **Agility Session (F5 Sales Summit)**
+
+#### 📈 Impact
+- 7 technical scenarios delivered across reliability, observability, and security  
+- 200+ SEs trained across regions  
+- Field enablement reuse across 3 strategic partners  
 
 ---
 
@@ -107,11 +130,17 @@ This portfolio highlights selected enablement content, architectures, and joint 
 #### 💻 Click-Through Demo
 [F5 Simulator: SRE Blue-Green Deployment](https://simulator.f5.com/s/sre-blue-green)
 
-*Delivered to:* Agility Session (F5 Sales Summit)  
-🏆 *Top 2 SE Solution Package Award*
+#### 🏅 Recognition
+- Delivered at **Agility Session (F5 Sales Summit)**  
+- **Top 2 SE Package Award – “Better Together: F5 + Red Hat”**
+
+#### 📈 Impact
+- 7 technical scenarios delivered across reliability, observability, and security  
+- 200+ SEs trained across regions  
+- Field enablement reuse across 3 strategic partners  
 
 ---
----
+
 ## 🟡 Red Hat Ansible and F5
 
 ### ⚙️ Ansible Linklight – F5 Networking Workshop
@@ -119,10 +148,6 @@ This portfolio highlights selected enablement content, architectures, and joint 
 - [GitHub](https://github.com/DLT-Solutions-JBoss/ansibleWorkshops)
 - [Click-Through Demo](https://simulator.f5.com/s/ansible-tower)  
   *Delivered to:* Red Hat AnsibleFest (Lab)
-
-### ☁️ F5 Ansible AWS Provisioner (Sandbox)
-- [GitHub: F5 Ansible AWS Provisioner](https://github.com/f5alliances/f5_provisioner)
-- [Use Case Docs (PDF)](https://readthedocs.org/projects/f5-ansible-use-cases/downloads/pdf/latest/)
 
 ---
 
