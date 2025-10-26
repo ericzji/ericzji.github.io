@@ -40,14 +40,10 @@ This portfolio highlights selected enablement content, architectures, and joint 
 #### 🎤 Delivered To
 - *Red Hat Summit 2025 Breakout Session:*  
   [Advancing AI Inference: Scalability and Security with Red Hat OpenShift AI and F5](https://events.experiences.redhat.com/widget/redhat/sum25/SessionCatalog2025/session/1741033646953001jcS6)
-
-#### 🏅 Recognition
 - Delivered at **Agility Session (F5 Sales Summit)**
 
 #### 📈 Impact
-- 7 technical scenarios delivered across reliability, observability, and security  
 - 200+ SEs trained across regions  
-- Field enablement reused across 3 strategic partners  
 
 ---
 
@@ -57,19 +53,21 @@ This portfolio highlights selected enablement content, architectures, and joint 
 
 ### ☁️ Solution: AWS EKS to OpenShift ROSA
 
-#### 🎬 Live Demo – F5 AppWorld 2024 (Customer Summit)
-- [Simplify App Connectivity with Red Hat ROSA and F5 Distributed Cloud](https://www.youtube.com/watch?v=Mx7QfpZpjHc)
-
+#### 
 #### 🧩 Webinars
 - [Multi-Cloud Network Security with F5 and Red Hat OpenShift](https://www.f5.com/company/events/webinars/multi-cloud-network-security-with-f5-and-red-hat-openshift)
 - [F5 Secure Multicloud Networking for Red Hat OpenShift](https://www.f5.com/company/events/webinars/f5-secure-multicloud-networking-for-red-hat-openshift)
 
 #### 🏅 Recognition
-- Delivered at **Agility Session (F5 Sales Summit)**
+- 🎬 [Live Demo – F5 AppWorld 2024 (Customer Summit): *Simplify App Connectivity with Red Hat ROSA and F5 Distributed Cloud*](https://www.youtube.com/watch?v=Mx7QfpZpjHc)  
+- [Executive Blog by Mike Rau, SVP & GM](https://www.f5.com/company/blog/red-hat-openshift-aws-f5-distributed-cloud-services)  
+- Featured in **Executive Keynotes** at F5 AppWorld 2024 (Customer Summit)  
+- Delivered at **Agility Session (F5 Sales Summit)**  
 
 #### 📈 Impact
-- Accelerated migrations from EKS to ROSA with standardized patterns  
-- Reduced time-to-first-value for field teams through demo-first enablement  
+- Accelerated customer migrations from **AWS EKS to Red Hat ROSA** through standardized solution patterns  
+- Reduced **time-to-first-value** for field teams via demo-driven enablement  
+- Enabled **multiple customer wins** through joint Red Hat and F5 solution adoption  
 
 ---
 
