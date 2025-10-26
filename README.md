@@ -88,7 +88,6 @@ This portfolio highlights selected enablement content, architectures, and joint 
 
 ### ☁️ Solution: AWS EKS to OpenShift ROSA
 
-#### 
 #### 🧩 Webinars
 - [Multi-Cloud Network Security with F5 and Red Hat OpenShift](https://www.f5.com/company/events/webinars/multi-cloud-network-security-with-f5-and-red-hat-openshift)
 - [F5 Secure Multicloud Networking for Red Hat OpenShift](https://www.f5.com/company/events/webinars/f5-secure-multicloud-networking-for-red-hat-openshift)
