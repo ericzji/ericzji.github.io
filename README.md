@@ -23,16 +23,22 @@ This portfolio highlights selected enablement content, architectures, and joint 
 
 ### 🔐 Solution: Securing Model Serving in Red Hat OpenShift AI with F5
 
-#### 📄 Solution Briefs
+#### 📰 F5 Press Release
+- [F5 Expands Strategic Collaboration with Red Hat to Enable Scalable, Secure Enterprise AI](https://www.f5.com/company/news/press-releases/f5-red-hat-enable-scalable-secure-enterprise-ai)
+
+#### 📄 White Paper
 - [Enhancing Red Hat OpenShift AI Application Deployments with F5](https://www.f5.com/pdf/white-paper/f5-enhancing-red-hat-openshift-ai-application-deployments-white-paper.pdf)
+
+#### 📘 Solution Guides
+- [Securing Models on Red Hat OpenShift AI with F5 Distributed Cloud Services](https://www.f5.com/pdf/solution-guide/f5-solution-overview-securing-models-on-red-hat-openshift-ai-with-distributed-cloud-services.pdf)
 - [How F5 Helps Secure and Scale Red Hat OpenShift AI for RAG Use Cases](https://www.f5.com/pdf/solution-overview/how-f5-helps-secure-and-scale-red-hat-openshift-ai-for-rag-use-cases-solution-ov.pdf)
 
 #### 🧠 Blog
 - [Securing Model Serving in Red Hat OpenShift AI (on ROSA) with F5 Distributed Cloud API Security](https://community.f5.com/kb/technicalarticles/securing-model-serving-in-red-hat-openshift-ai-on-rosa-with-f5-distributed-cloud/338353)
 
 #### 🎥 Demo Videos
-- [YouTube: F5 AI Gateway to Secure and Optimize LLM Services with Red Hat OpenShift AI](https://www.youtube.com/watch?v=RDBUNY6k9h0)
-- [YouTube: Secure Model Serving with Red Hat OpenShift AI and F5 Distributed Cloud API Security](https://www.youtube.com/watch?v=QJhQaKE3L0w&t=32s)
+- [F5 AI Gateway to Secure and Optimize LLM Services with Red Hat OpenShift AI](https://www.youtube.com/watch?v=RDBUNY6k9h0)
+- [Secure Model Serving with Red Hat OpenShift AI and F5 Distributed Cloud API Security](https://www.youtube.com/watch?v=QJhQaKE3L0w&t=32s)
 
 #### 🧩 Webinars
 - [Securing Model Serving in Red Hat OpenShift AI with F5 Distributed Cloud API Security](https://www.f5.com/company/events/webinars/securing-model-serving-in-red-hat-openshift-ai-with-f5-distributed-cloud-api-security)
@@ -40,11 +46,19 @@ This portfolio highlights selected enablement content, architectures, and joint 
 
 #### 🎤 Delivered To
 - *Red Hat Summit 2025 Breakout Session:*  
-  [Advancing AI Inference: Scalability and Security with Red Hat OpenShift AI and F5](https://events.experiences.redhat.com/widget/redhat/sum25/SessionCatalog2025/session/1741033646953001jcS6)
-- Delivered at **Agility Session (F5 Sales Summit)**
+  [Advancing AI Inference: Scalability and Security with Red Hat OpenShift AI and F5](https://events.experiences.redhat.com/widget/redhat/sum25/SessionCatalog2025/session/1741033646953001jcS6)  
+- Delivered at **Agility Session (F5 Sales Summit)**  
+
+#### 🏅 Recognition
+- Featured in **Red Hat Summit 2025 Breakout Session**  
+- Highlighted in **F5 + Red Hat joint press release and executive communications**  
+- Delivered at **F5 Agility Sales Summit**
 
 #### 📈 Impact
-- 200+ SEs trained across regions  
+- Enabled **200+ Sales Engineers (SEs)** through hands-on enablement and demos  
+- Demonstrated **real-world AI risk mitigation** via prompt injection protection and API-layer security  
+- Established **joint technical reference** for secure AI model serving between F5 and Red Hat  
+
 
 ---
 
