@@ -8,8 +8,9 @@ This portfolio highlights selected enablement content, architectures, and joint 
 ## 🔵 F5 and AI
 
 ### ⚡ NVIDIA and F5 (since September 2025) — *Work in Progress*
-- Joint collaboration to integrate **F5 AI Gateway** and **NVIDIA NIM / AI Enterprise** stack.
-- Building joint reference implementations for secure, high-performance LLM inference pipelines.
+- Joint collaboration to integrate **F5 AI Guardrail and Red Team** capabilities with the **NVIDIA NIM / AI Enterprise** stack.  
+- Identified **15 company-wide collaboration opportunities** with NVIDIA, mapped using an **Eisenhower Matrix**, and presented to F5 executives (EVPs) — received strong alignment and positive feedback.  
+- Developing **joint reference implementations** to deliver secure, high-performance LLM inference and model-serving pipelines across multi-cloud environments.  
 
 ---
 
