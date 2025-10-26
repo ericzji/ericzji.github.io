@@ -65,6 +65,8 @@ This portfolio highlights selected enablement content, architectures, and joint 
 
 #### 📘 Deployment Guides
 - [VMware vSphere to OpenShift Virtualization Migration with F5 BIG-IP](https://community.f5.com/kb/technicalarticles/vmware-vsphere-to-openshift-virtualization-migration-with-f5-big-ip/334264)
+- [VMware NSX to Red Hat OpenShift Virtualization Migration with F5 Distributed Cloud (DevCentral)](https://community.f5.com/kb/technicalarticles/vmware-nsx-to-red-hat-openshift-virtualization-migration-with-f5-distributed-clo/338660)
+
 
 #### 🎤 Webinar
 - [OpenShift Virtualization Migration and Security with F5](https://www.f5.com/company/events/webinars/OpenShift-Virtualization-Migration-Security-with-F5)
