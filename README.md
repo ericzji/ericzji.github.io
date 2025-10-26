@@ -51,6 +51,38 @@ This portfolio highlights selected enablement content, architectures, and joint 
 
 - [F5.com Red Hat Alliance Page](https://www.f5.com/partners/technology-alliances/red-hat)
 
+### 🧩 Solution: VMware Migration to OpenShift Virtualization with F5
+
+#### 📄 Solution Brief
+- [Migrating from VMware to Red Hat OpenShift Virtualization Using F5](https://www.f5.com/pdf/solution-overview/Migrating-from-VMware-to-Red-Hat.pdf)
+
+#### 🎥 Demo Videos
+- [Seamless Application Migration to OpenShift Virtualization Using F5 Distributed Cloud](https://www.youtube.com/watch?v=2NVg8sSEPi4)
+
+#### 🧠 Blogs
+- [Deploying F5 Distributed Cloud Customer Edge in Red Hat OpenShift Virtualization](https://community.f5.com/kb/technicalarticles/deploying-f5-distributed-cloud-customer-edge-in-red-hat-openshift-virtualization/335051)
+- [Seamless Application Migration to OpenShift Virtualization with F5 Distributed Cloud](https://community.f5.com/kb/technicalarticles/seamless-application-migration-to-openshift-virtualization-with-f5-distributed-c/335451)
+
+#### 📘 Deployment Guides
+- [VMware vSphere to OpenShift Virtualization Migration with F5 BIG-IP](https://community.f5.com/kb/technicalarticles/vmware-vsphere-to-openshift-virtualization-migration-with-f5-big-ip/334264)
+
+#### 🎤 Webinar
+- [OpenShift Virtualization Migration and Security with F5](https://www.f5.com/company/events/webinars/OpenShift-Virtualization-Migration-Security-with-F5)
+
+#### 🏛️ Delivered To
+- *Red Hat Summit 2025 Breakout Session:*  
+  [Securely Migrate to Red Hat OpenShift Virtualization with F5](https://events.experiences.redhat.com/widget/redhat/sum25/SessionCatalog2025/session/1741033310246001zgH3)
+
+#### 🏅 Recognition
+- Delivered at **Red Hat Summit 2025 (Breakout Session)**  
+- Featured in **Joint F5 + Red Hat Solution Showcase**
+
+#### 📈 Impact
+- Multiple **customer proofs of concept (PoCs)** delivered with measurable migration acceleration  
+- Two **Win-Wires** recognized for successful VMware-to-OpenShift modernization  
+- Demonstrated **end-to-end migration automation and security integration** across F5 and Red Hat platforms
+
+
 ### ☁️ Solution: AWS EKS to OpenShift ROSA
 
 #### 
