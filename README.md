@@ -143,7 +143,6 @@ This portfolio highlights selected enablement content, architectures, and joint 
   *Delivered to:* F5 Agility Sales Summit
 
 #### 🏅 Recognition
-- **Top 2 SE Package Award – “Better Together: F5 + Red Hat”**  
 - Delivered at **F5 Agility Sales Summit**
 
 #### 📈 Impact
