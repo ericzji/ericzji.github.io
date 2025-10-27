@@ -1,7 +1,8 @@
 # Eric Ji | Technical Portfolio
 
-Welcome!  
-This portfolio highlights selected enablement content, architectures, and joint solutions I’ve led across **F5**, **Red Hat**, **Cisco**, and **NVIDIA**, focused on multi-cloud, AI infrastructure, automation, and SRE practices.
+Welcome!
+As a Senior Solutions Architect at F5, I’ve designed and delivered joint solutions with partners like Red Hat, Cisco, and NVIDIA.
+This portfolio highlights my work bringing together multi-cloud architectures, AI platforms, and reliability engineering to solve real-world enterprise challenges.
 
 ---
 
