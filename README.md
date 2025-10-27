@@ -6,7 +6,7 @@ As a Senior Solutions Architect at F5, I’ve designed and delivered joint solut
 This portfolio highlights my work bringing together multi-cloud architectures, AI platforms, and reliability engineering to solve real-world enterprise challenges.
 
 ---
-
+---
 ## 🔵 F5 and AI
 
 ### ⚡ NVIDIA and F5 (since September 2025) — *Work in Progress*
@@ -67,7 +67,7 @@ This portfolio highlights my work bringing together multi-cloud architectures, A
 - Established **joint technical reference architecture** for secure AI model serving between F5 and Red Hat  
 
 ---
-
+---
 ## 🔴 Red Hat OpenShift and F5
 
 - [F5.com Red Hat Alliance Page](https://www.f5.com/partners/technology-alliances/red-hat)
@@ -187,7 +187,7 @@ This portfolio highlights my work bringing together multi-cloud architectures, A
 - Reused across **3 strategic partners** for field enablement  
 
 ---
-
+---
 ## 🟡 Red Hat Ansible and F5
 
 ### ⚙️ Ansible Linklight – F5 Networking Workshop
@@ -197,7 +197,7 @@ This portfolio highlights my work bringing together multi-cloud architectures, A
   *Delivered to:* **Red Hat AnsibleFest (Lab)**
 
 ---
-
+---
 ## 🔵 Cisco ACI and F5 BIG-IP
 
 - [F5.com Cisco Alliance Page](https://www.f5.com/partners/technology-alliances/cisco)
