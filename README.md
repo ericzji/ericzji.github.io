@@ -186,9 +186,11 @@ This portfolio highlights my work bringing together multi-cloud architectures, A
 - Trained **200+ SEs** globally  
 - Reused across **3 strategic partners** for field enablement
 
+---
+
 ### 🧩 Solution:Scale your Production-Grade OpenShift with F5 NGINX Ingress
 #### 🔹Workshop
-- [F5 and Red Hat OpenShift Demo] (https://nginx-openshift-lab.readthedocs.io/en/latest/)
+- [F5 and Red Hat OpenShift Demo](https://nginx-openshift-lab.readthedocs.io/en/latest/)
 
 ---
 ---
