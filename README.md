@@ -150,7 +150,7 @@ This portfolio highlights my work bringing together multi-cloud architectures, A
 #### 📈 Impact
 - Delivered **7 technical scenarios** across reliability, observability, and security  
 - Trained **200+ SEs** across global regions  
-- Achieved **cross-partner reuse** across 3 strategic alliances  
+- Achieved **cross-partner reuse** across 3 strategic alliances
 
 ---
 
@@ -184,7 +184,11 @@ This portfolio highlights my work bringing together multi-cloud architectures, A
 #### 📈 Impact
 - Delivered **7 technical scenarios** across reliability, observability, and security  
 - Trained **200+ SEs** globally  
-- Reused across **3 strategic partners** for field enablement  
+- Reused across **3 strategic partners** for field enablement
+
+### 🧩 Solution:Scale your Production-Grade OpenShift with F5 NGINX Ingress
+#### 🔹Workshop
+- [F5 and Red Hat OpenShift Demo] (https://nginx-openshift-lab.readthedocs.io/en/latest/)
 
 ---
 ---
