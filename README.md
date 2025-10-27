@@ -1,6 +1,7 @@
 # Eric Ji | Technical Portfolio
 
 Welcome!
+
 As a Senior Solutions Architect at F5, I’ve designed and delivered joint solutions with partners like Red Hat, Cisco, and NVIDIA.
 This portfolio highlights my work bringing together multi-cloud architectures, AI platforms, and reliability engineering to solve real-world enterprise challenges.
 
