@@ -62,7 +62,7 @@ This portfolio highlights my work bringing together multi-cloud architectures, A
 
 #### 📈 Impact
 - Enabled **200+ Sales Engineers (SEs)** through hands-on enablement and demo training  
-- Delivered *train-the-trainer* and *hands-on workshops* for top channel partners (**WWT**, **CDW**, **Presidio**, etc.)  
+- Delivered **train-the-trainer** and **hands-on workshops** for top channel partners (**WWT**, **CDW**, **Presidio**, etc.)  
 - Demonstrated **real-world AI risk mitigation** via prompt injection protection and API-layer security  
 - Established **joint technical reference architecture** for secure AI model serving between F5 and Red Hat  
 
