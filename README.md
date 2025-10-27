@@ -111,12 +111,14 @@ This portfolio highlights my work bringing together multi-cloud architectures, A
 ### ☁️ Solution: AWS EKS to OpenShift ROSA
 
 #### 🧩 BoM for F5 AppWorld 
+
 **External Enablement Items:**
 - Partner-Branded Solution Brief
 - Sales Converation Guide (1 Pager)
 - Animation Video
 - Customer Pitch Deck (Technical)
 - Customer Pitch Deck (Business)
+
 **Internal Enablement Items**
 - Internal Pitch Deck (Technical)
 - Internal Pitch Deck (Business)
