@@ -110,6 +110,20 @@ This portfolio highlights my work bringing together multi-cloud architectures, A
 
 ### ☁️ Solution: AWS EKS to OpenShift ROSA
 
+#### 🧩 BoM for F5 AppWorld 
+**External Enablement Items:**
+- Partner-Branded Solution Brief
+- Sales Converation Guide (1 Pager)
+- Animation Video
+- Customer Pitch Deck (Technical)
+- Customer Pitch Deck (Business)
+**Internal Enablement Items**
+- Internal Pitch Deck (Technical)
+- Internal Pitch Deck (Business)
+- Lab
+- Deployment Guide
+- BDR Sales Enablement Call Script
+
 #### 🧩 Webinars
 - [Multi-Cloud Network Security with F5 and Red Hat OpenShift](https://www.f5.com/company/events/webinars/multi-cloud-network-security-with-f5-and-red-hat-openshift)  
 - [F5 Secure Multicloud Networking for Red Hat OpenShift](https://www.f5.com/company/events/webinars/f5-secure-multicloud-networking-for-red-hat-openshift)
