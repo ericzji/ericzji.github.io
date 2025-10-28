@@ -102,6 +102,8 @@ This portfolio highlights my work bringing together multi-cloud architectures, A
 - Included in **Technical Briefing with Live Demo at F5 AppWorld**
 
 #### 📈 Impact
+- Enabled 200+ Sales Engineers (SEs) through hands-on enablement and demo training
+- Delivered train-the-trainer and hands-on workshops for top channel partners
 - Multiple **customer proofs of concept (PoCs)** demonstrating measurable migration acceleration  
 - Two **Win-Wires** for successful VMware-to-OpenShift modernization  
 - Delivered **end-to-end migration automation and security integration** across F5 and Red Hat platforms  
